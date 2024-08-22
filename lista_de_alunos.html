@@ -12,4 +12,39 @@
   <header>
   Olá Mundo! Prof. Cloves Rocha
     <h1> ATA UNIFG 21/AGOSTO </h1>
+
+    <ol>
+    <li>Arthur Anael Lima da Silva (1352311310)</li>
+    <li>Caio Renan Silva dos Santos</li>
+    <li>Samuel Almeida</li>
+    <li>Carlos Alberto Gomes</li>
+    <li>Nicholas Arruda Barros de Almeida</li>
+    <li>Danilo Ferriera de Souza (1352220438)</li>
+    <li>Dayvid Araujo </li>
+    <li>Weslley Nascimento Carneiro 135419377</li>   
+    <li>Eron Matheus</li>
+    <li>Miguel Estevan Martins de Loiola</li>
+    <li>Gabriel Ferreira Maranhão</li>
+    <li>Guilherme Cavalcanti Bezerra Silva</li>
+    <li>Pedro Vinicius Melo da Silva (1352317613)</li>
+    <li>Guilherme Lacerda Macêdo RA: 1352316811 @Shinrou10</li>
+    <li>Ricardo Alexandre</li>
+    <li>Jerffeson da Silva</li>
+    <li>Ricardo José da Silva</li>
+    <li>Jhonata Gabriel </li>
+    <li>Luquian Cesar</li>    
+  </ol>
+
+<script>
+    const listItems = document.querySelectorAll('ol li');
+    const listItemsArray = Array.from(listItems);
+    listItemsArray.sort((a, b) => {
+      const textA = a.textContent.toLowerCase();
+      const textB = b.textContent.toLowerCase();
+      return textA.localeCompare(textB);
+    });
+    listItemsArray.forEach((item, index) => {
+      document.querySelector('ol').appendChild(item);
+    });
+  </script>
   </header>
