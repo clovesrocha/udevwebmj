@@ -4,11 +4,6 @@ body {
     padding: 0;
     background-color: #ef70f3;
 }
-
-html {
-  height: 100%;
-  width: 100%;
-}
 main {
     padding: 20px;
     text-align: center;
@@ -22,4 +17,8 @@ footer {
     position: fixed;
     bottom: 0;
     width: 100%;
+}
+html {
+  height: 100%;
+  width: 100%;
 }
