@@ -10,10 +10,12 @@ body {
     padding: 0;
     color: white;
     background-image: url("https://raw.githubusercontent.com/clovesrocha/udevwebmj/main/img/unifg_fachada.jpeg");
-    background-filter: brightness(0.25) opacity(0.75);
-    background-size: cover;
-    filter: brightness(0.5);
-    }
+}
+    .overlay {
+      background-image:url(https://static.musiocdn.com/img/dot-overlay.png?45a8ea7a65f7);
+      width:100%;
+      height:100%;
+}
 
 
 header {
