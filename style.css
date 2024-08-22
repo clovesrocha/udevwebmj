@@ -1,12 +1,16 @@
 html {
+  height: 100%;
+  width: 100%;
+}
 
+html {
   height: 100%;
   width: 100%;
   display: flex;
   justify-content: center;
   align-items: center;
   min-height: 100%; 
-  background-color: #f0f0f0;
+  background-color: #f0f0f0; /* This line was moved inside the html selector */
 }
 
 .square {
