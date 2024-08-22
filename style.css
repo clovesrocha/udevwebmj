@@ -10,7 +10,7 @@ body {
     padding: 0;
     color: white;
     background-image: url("https://raw.githubusercontent.com/clovesrocha/udevwebmj/main/img/unifg_fachada.jpeg");
-    background-ilter: brightness(0.25) opacity(0.75);
+    background-filter: brightness(0.25) opacity(0.75);
     background-size: cover;
     background-repeat: no-repeat;
     }
