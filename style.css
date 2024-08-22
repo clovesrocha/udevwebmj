@@ -1,43 +1,11 @@
+html {
+    height: 100%;
+    width: 100%:
+}
+
 body {
     font-family: Arial, Helvetica, sans-serif;
     margin: 0;
     padding: 0;
     background-color: #ef70f3;
-}
-
-header {
-    background-color: #333;
-    color: white;
-    padding: 10px 0;
-    text-align: center;
-}
-
-nav ul {
-    list-style-type: none;
-    padding: 0;
-}
-
-nav ul li {
-    display: inline;
-    margin: 0 15px;
-}
-
-nav ul li a {
-    color: rgb(255, 255, 255);
-    text-decoration: none;
-}
-
-main {
-    padding: 20px;
-    text-align: center;
-}
-
-footer {
-    background-color: #333;
-    color: white;
-    text-align: center;
-    padding: -0% 0;
-    position: fixed;
-    bottom: 0;
-    width: 100%;
 }
