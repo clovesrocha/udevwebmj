@@ -18,6 +18,10 @@ header {
     text-align: center;
 }
 
+p{
+    text-align: center;
+}
+
 footer{
     background-color: #333;
     color: white;
