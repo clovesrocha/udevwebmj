@@ -9,3 +9,9 @@ body {
     padding: 0;
     background-color: #ef70f3;
 }
+header {
+    background-color: #333;
+    color: white;
+    padding: 10px 0;
+    text-align: center;
+}
