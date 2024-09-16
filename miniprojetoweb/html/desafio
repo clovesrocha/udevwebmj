@@ -1,1 +1,5 @@
-
+Resumo:
+HTML: Estrutura da página com um campo de entrada, um botão para adicionar tarefas e uma lista onde as tarefas serão exibidas.
+CSS: Estiliza a página para torná-la visualmente atraente e organizada.
+JavaScript: Adiciona interatividade para criar tarefas, marcar tarefas como concluídas e removê-las da lista.
+Esse projeto é uma excelente forma de aprender e praticar o uso combinado de HTML, CSS e JavaScript. Você pode expandi-lo adicionando recursos como persistência de dados (usando Local Storage), categorias para tarefas, ou até mesmo uma contagem de tarefas concluídas.
