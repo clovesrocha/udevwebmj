@@ -5,3 +5,4 @@
 
 # Discentes
 - Fulano de Tal e RA...
+- Guilherme Cavalcanti Bezerra Silva
