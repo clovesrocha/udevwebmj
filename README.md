@@ -9,4 +9,4 @@
 - Nicholas Arruda Barros de Almeida - 1352321509
 - Danilo Ferreira de Souza - 1352220438
 - Jhonata Gabriel Pontes da Silva - 1352315847
-
+- Jerffeson da Silva - 1352223508
