@@ -12,3 +12,4 @@
 - Jerffeson da Silva - 1352223508
 - Miguel Estevan Martins de Loiola - 1352312515
 - Pedro Vinicius Melo da Silva - 1352317613
+- Ricardo José da Silva - 1352315514
