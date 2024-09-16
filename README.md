@@ -6,3 +6,5 @@
 # Discentes
 - Fulano de Tal e RA...
 - Guilherme Cavalcanti Bezerra Silva
+- Nicholas Arruda Barros de Almeida - 1352321509
+
