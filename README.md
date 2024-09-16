@@ -16,3 +16,4 @@
 - Weslley Nascimento Carneiro - 1352419377
 - ricardo jose da silva -1352315514
 - Caio Renan Silva dos Santos - 13523112349
+- Jairo Alves da Silva junior - 1352312545
