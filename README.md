@@ -5,7 +5,7 @@
 
 # Discentes
 - Fulano de Tal e RA...
-- Guilherme Cavalcanti Bezerra Silva
+- Guilherme Cavalcanti Bezerra Silva - 13523113163
 - Nicholas Arruda Barros de Almeida - 1352321509
 - Danilo Ferreira de Souza - 1352220438
 - Jhonata Gabriel Pontes da Silva - 1352315847
