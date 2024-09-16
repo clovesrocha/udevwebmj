@@ -1,4 +1,4 @@
-Resumo:
+# Resumo:
 HTML: Estrutura da página com um campo de entrada, um botão para adicionar tarefas e uma lista onde as tarefas serão exibidas.
 CSS: Estiliza a página para torná-la visualmente atraente e organizada.
 JavaScript: Adiciona interatividade para criar tarefas, marcar tarefas como concluídas e removê-las da lista.
