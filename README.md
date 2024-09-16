@@ -13,3 +13,4 @@
 - Miguel Estevan Martins de Loiola - 1352312515
 - Pedro Vinicius Melo da Silva - 1352317613
 - Carlos Alberto Gomes da Silva Junior - 13524118824
+- Weslley Nascimento Carneiro - 1352419377
