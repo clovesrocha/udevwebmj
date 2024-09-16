@@ -14,3 +14,4 @@
 - Pedro Vinicius Melo da Silva - 1352317613
 - Carlos Alberto Gomes da Silva Junior - 13524118824
 - Weslley Nascimento Carneiro - 1352419377
+- ricardo jose da silva - 1352315514
