@@ -1,6 +1,7 @@
 # Desafio: Construindo um Aplicativo de Tarefas com Integração de API
 # Objetivo:
-- Desenvolver um aplicativo de gerenciamento de tarefas colaborativo (To-do list) que permita a criação, atualização e exclusão de tarefas. O aplicativo deverá consumir uma API externa para salvar os dados de tarefas, e as equipes deverão usar o Git para colaborar e compartilhar o código. Além disso, o projeto deve ser configurado usando um gerenciador de pacotes (npm).
+- Desenvolver um aplicativo de gerenciamento de tarefas colaborativo (To-do list) que permita a criação, atualização e exclusão de tarefas.
+- O aplicativo deverá consumir uma API externa para salvar os dados de tarefas, e as equipes deverão usar o Git para colaborar e compartilhar o código. Além disso, o projeto deve ser configurado usando um gerenciador de pacotes (npm).
 
 # Requisitos:
 Front-end:
@@ -34,12 +35,12 @@ Criem scripts no package.json para facilitar a execução do projeto, como npm r
 # Instruções:
 Divisão de Tarefas:
 
-Cada equipe deve dividir responsabilidades, por exemplo:
-Membro 1: Criação do front-end com HTML, CSS e JavaScript;
-Membro 2: Desenvolvimento da API usando Node.js e Express;
-Membro 3: Integração da API com o front-end usando JavaScript (fetch ou axios);
-Membro 4: Gestão do projeto no Git (branching, PRs, revisão de código).
-Implementação do Front-end:
+- Cada equipe deve dividir responsabilidades, por exemplo:
+- Membro 1: Criação do front-end com HTML, CSS e JavaScript;
+- Membro 2: Desenvolvimento da API usando Node.js e Express;
+- Membro 3: Integração da API com o front-end usando JavaScript (fetch ou axios);
+- Membro 4: Gestão do projeto no Git (branching, PRs, revisão de código).
+- Implementação do Front-end:
 
 Crie uma interface de usuário simples em HTML e CSS para exibir e gerenciar a lista de tarefas.
 Use JavaScript para fazer requisições à API, exibir as tarefas e permitir que os usuários interajam com elas.
