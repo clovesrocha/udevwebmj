@@ -17,3 +17,21 @@
 - ricardo jose da silva -1352315514
 - Caio Renan Silva dos Santos - 13523112349
 - Jairo Alves da Silva junior - 1352312545
+
+# Inicializar um repositório Git
+git init
+
+# Adicionar um arquivo específico para o controle de versão
+git add nome_do_arquivo.txt
+
+# Fazer um commit com uma mensagem descritiva
+git commit -m "Adiciona arquivo de exemplo"
+
+# Verificar o status do repositório
+git status
+
+# Criar uma nova branch
+git checkout -b nova-branch
+
+# Fazer o push de uma branch para o repositório remoto
+git push origin nova-branch
