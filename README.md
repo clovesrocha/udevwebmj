@@ -35,3 +35,13 @@ git checkout -b nova-branch
 
 # Fazer o push de uma branch para o repositório remoto
 git push origin nova-branch
+
+# Inicializar um projeto Node.js
+npm init -y
+
+# Instalar o Express.js como dependência
+npm install express
+
+# Rodar um script definido no package.json
+npm run start
+
